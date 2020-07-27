@@ -22,10 +22,6 @@ minima:
   
   skin: solarized-dark
 
-#     twitter_username: jekyllrb
-#     github_username:  jekyll
-#     rss: rss
-
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
