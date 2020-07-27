@@ -7,7 +7,7 @@ date: 2020-07-27
 ---
 
 Github's new profile readme is all the rage right now. 
-## Creating a self-updating profile readme helped me -
+### Creating a self-updating profile readme helped me -
 
 - **Start a technical blog within Github itself**
 - **Retrieve relevant information from within Github ecosystem (no separate blog)**
