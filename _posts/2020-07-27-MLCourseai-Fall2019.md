@@ -1,9 +1,10 @@
 ---
 title: "MLCourse.ai — Fall 2019"
+categories: Machine Learning
+author: "Vidya Bhandary"
+meta: "Machine Learning, Data Science"
 date: 2020-07-27
 ---
-
-# MLCourse.ai — Fall 2019
 
 I came across [MLCourse.ai](https://mlcourse.ai) mentioned in many articles when I was looking at good introductory courses to learn Data Science from. 
 It was always listed in the top few. I had tried my hand at MLCourse.ai in Spring 2019 but could not complete it. 
