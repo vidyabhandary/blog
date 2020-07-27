@@ -8,7 +8,7 @@ Hi !!
 Thank you for visiting my 'About' page.
 
 ### I am Vidya Bhandary. A unique combination of stardust. ( Aren't we all ??!! )
-### I am a technology enthusiast who is currently exploring Data Science, Machine Learning, Data Visualization and Block Chain.
+#### I am a technology enthusiast who is currently exploring Data Science, Machine Learning, Data Visualization and Block Chain.
 
 #### My static landing page - [*https://vidyabhandary.github.io*](https://vidyabhandary.github.io)
 #### Other online presence ( or experiments )
