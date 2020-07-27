@@ -1,13 +1,12 @@
 title: Bits and Bytes
 
 author:
-  name: 'Philo Vdy'
-  email: 'philo.vdy@gmail.com'
+  name: 'Vidya Bhandary'
+  email: 'vidya.ga@gmail.com'
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Occassional technical posts on items that are too long to fit in 
+  'Things I learned' (TIL).   Some 'how-to's.
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -17,8 +16,9 @@ theme: minima
 # generate social links in footer
 minima:
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: vidya_bhandary
+    github:  vidyabhandary
+    linkedin: vidyabhandary
   
   skin: solarized-dark
 
@@ -34,16 +34,3 @@ header_pages:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- 
- # theme: minima
-# title: Bits and Bytes
-# author: Philo Vdy
-# email: philo.vdy@gmail.com
-# description: > # this means to ignore newlines until "baseurl:"
-#   Bits and Bytes, Short learnings, Code snippets from my learnings
-
-# social links
-# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-# github_username:  philovdy # DO NOT include the @ character, or else the build will fail!
-
-# show_excerpts: true # set to false to remove excerpts on the homepage
