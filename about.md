@@ -3,3 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+Hi !!
+Thank you for visiting my 'About' page.
+
+> #### I am Vidya Bhandary. A unique combination of stardust. ( Aren't we all ??!! )
+> #### I am a technology enthusiast who is currently exploring Data Science, Machine Learning, Data Visualization and Block Chain.
+
+My static landing page - *https://vidyabhandary.github.io*
+
+> Other online presence ( or experiments )
+
+- Personal and non-tehcnial posts @blogspot - *https://vidyabhandary.blogspot.com/*
+- On trial basis - @medium - *https://medium.com/@vidyabhandary*
+
+- Only travel related posts - @blogspot - *http://traveljaunts.blogspot.com/*
+- A book lover - @goodreads - *https://www.goodreads.com/user/show/63883501-vidya*
+- Twitter  - *https://twitter.com/vidya_bhandary*
+
+ 
