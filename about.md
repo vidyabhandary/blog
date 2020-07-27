@@ -14,7 +14,7 @@ Thank you for visiting my 'About' page.
 ##### Other social media presence (or experiments)
 
 - Personal and non-technical posts [@blogger](https://vidyabhandary.blogspot.com/)
-- On trial basis - [medium](https://medium.com/@vidyabhandary)
-- Only travel related posts - [blogger](http://traveljaunts.blogspot.com/) 
-- A book lover - [goodreads](https://www.goodreads.com/user/show/63883501-vidya) 
-- [Twitter](https://twitter.com/vidya_bhandary)
+- Miscellaneous - [@medium](https://medium.com/@vidyabhandary)
+- Only travel related posts - [@blogger](http://traveljaunts.blogspot.com/) 
+- A book lover - [@goodreads](https://www.goodreads.com/user/show/63883501-vidya) 
+- Tweets - [@Twitter](https://twitter.com/vidya_bhandary)
