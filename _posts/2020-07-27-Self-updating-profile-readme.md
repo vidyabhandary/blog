@@ -50,10 +50,9 @@ create the self-updating read-me for Github.
 - `requirements.txt` *(No change required)*
 - `README.md` *(Personalize this)*
 - `build_readme.py` *(Personalize the urls shown below)*
+
 ```python
-
 til_readme = "https://raw.githubusercontent.com/vidyabhandary/TIL/master/README.md"
-
 entries = feedparser.parse("https://vidyabhandary.github.io/blog/feed.xml")["entries"]
 ```
 - Create a manual workflow using Github actions
