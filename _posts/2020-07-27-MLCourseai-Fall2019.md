@@ -36,7 +36,7 @@ could breeze through them.
 
 So where did I end up ? I fared reasonably well in the Quizzes and Assignments. Couldn’t clear the baselines for the first two competitions at all !! 
 
-![](/assets/MLCourse.jpeg)
+![](https://github.com/vidyabhandary/blog/blob/master/images/MLCourse.jpeg)
 
 However I guess I did learn because in the final DOTA competition I ended up in the top 20% which 
 I did not expect at all. Rank around 200.(Many have same marks)
