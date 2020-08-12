@@ -6,12 +6,12 @@ meta: "Git, Github, Books"
 date: 2020-08-11
 ---
 
-# Learn Git in a Month of Lunches - Rick Umali
+### Learn Git in a Month of Lunches - Rick Umali
 
 There are many books that teach Git and many online courses along with blog posts too.
 But I had been looking for a good book that would go into the fundamentals without making it very complex. Plus I did not have a lot of time each day to work on this. 
 
-The lessons in this book are in easy byte-sized chunks which worked out perfectly.
+The lessons in this book are in *easy byte-sized chunks which worked out perfectly.*
 
 Actually the entire 'Month of lunches' series is organized around this concept. (Yet to read the other books).
 
