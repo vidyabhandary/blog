@@ -6,7 +6,7 @@ meta: "Book List"
 date: 2020-08-11
 ---
 
-# My Book List - On Lean In Bangalore
+### My Book List - On Lean In Bangalore
 
 It was a casual discussion of books in the Lean In Bangalore whatsapp group. I had posted a list of books along with my recommendations. It was published by Lean in Bangalore at this link 
 
@@ -134,13 +134,13 @@ The chapter on the art of the mask is shocking and to some extent I don't think 
 
 The part that details how really horrible we are at being original and imaginative is a not surprising but excruciating to read because it is easy to identify how much of creativity is lost in the process of education.
 
-Some quotes -
+Some quotes - 
 
-    When a very high-status person is wiped out, everyone feels pleasure as they experience the feeling of moving up a step.
+> When a very high-status person is wiped out, everyone feels pleasure as they experience the feeling of moving up a step.
 
-    Sanity has nothing directly to do with the way you think. It's a matter of presenting yourself as safe.
+> Sanity has nothing directly to do with the way you think. It's a matter of presenting yourself as safe.
 
-    Imagination is as effortless as perception, unless we think it might be 'wrong', which is what our education encourages us to believe. Then we experience ourselves as 'imagining', as 'thinking up an idea', but what we're really doing is faking up the sort of imagination we think we ought to have.
+> Imagination is as effortless as perception, unless we think it might be 'wrong', which is what our education encourages us to believe. Then we experience ourselves as 'imagining', as 'thinking up an idea', but what we're really doing is faking up the sort of imagination we think we ought to have.
 
 Read if you want to view the world differently, improve creativity and recognize human nature.
 
