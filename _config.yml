@@ -6,7 +6,7 @@ author:
 
 description: > # this means to ignore newlines until "show_excerpts:"
   Occassional technical posts on items that are too long to fit in 
-  'Things I learned' (TIL).   Some 'how-to's. Technical Book Reviews.
+  'Things I learned' (TIL).   Some 'how-to's. Book Reviews.
   
 show_excerpts: true # set to true to show excerpts on the homepage
 
