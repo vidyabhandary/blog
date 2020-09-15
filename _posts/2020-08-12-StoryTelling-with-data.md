@@ -12,8 +12,8 @@ It is now accepted that a well designed graph / image / infographic can has a tr
 
 **What I really liked about this book was the lack of fluff. To the point, concise and exactly how much was needed.**
 
-Too many books end up clutterring their message when they aim at a predefined number of pages. 
+Too many books end up cluttering their message when they aim at a predefined number of pages. 
 
 Many good examples with step by step instructions on what exactly is wrong with the infographic and how it can be improved and the final improved version.
 
-The only drawback I would say is that, only basic graph / charts are considered. One does not get to go beyond basics. 
+The only drawback I would say is that only basic graphs / charts are considered. One does not get to go beyond basics. 
