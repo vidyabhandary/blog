@@ -6,9 +6,6 @@ meta: "Interview, Algorithm, Tech News, Habit"
 date: 2020-12-23
 ---
 
-## Recommended Daily Interview Problem Newsletter
-
-
 **TLDR; 
 Subscribe to the daily interview problem newsletter at [Quastor Daily](https://quastor.substack.com/subscribe). It is a wonderful newsletter to help prepare for technical interviews.** 
 
