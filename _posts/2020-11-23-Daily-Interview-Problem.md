@@ -7,7 +7,7 @@ date: 2020-11-23
 ---
 
 **TLDR; 
-Subscribe to the daily interview problem newsletter at [Quastor Daily](https://quastor.substack.com/subscribe). It is a wonderful newsletter to help prepare for technical interviews.** 
+Subscribe to the daily interview problem newsletter at [Quastor Daily](https://quastor.org/quastordaily). It is a wonderful newsletter to help prepare for technical interviews.** 
 
 
 #### This is not a paid recommendation !!! All opinions are my own.
