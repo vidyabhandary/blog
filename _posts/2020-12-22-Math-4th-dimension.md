@@ -25,12 +25,12 @@ Some delightful snippets -
 
 - **Different-sized infinities**
 - **The strange cut outs from Mobius loops**
-- **Prime numbers ( considered pointless math till 1940 !! )**
-- **A sphere that increases in size even when bounded by other packing spheres (26th dimension onwards) !! Weird is an understatement !**
-- **Ramanujan summation where sum of all the positive whole numbers = -1/12 ! Used in string theory ( I am still trying to wrap my head around this).**
+- **Prime numbers ( considered pointless math till 1940 !! Now basis of digital communication )**
+- **A sphere that increases in size even when bounded by other packing spheres ( 26th dimension onwards ) !! Weird is an understatement !**
+- **Ramanujan summation where sum of all the positive whole numbers = -1/12 ! Used in string theory ( I am still trying to wrap my head around this ).**
 - **Knot theory - Trying to find one method to know if a tangled string is a knot and if so how to undo it with minimal effort. Why bother ? Biologists may be able to devise new wave of medical treatments based on this.**
-- **Uncomputable numbers !!!!! ( No amount of exclamations will do this justice ! )**
+- **Uncomputable numbers !!! ( No amount of exclamations will do this justice ! )**
 - **Description of Gödel's incompleteness theorem. Short, succinct and intuitive.**
-- **Riemann Hypothesis, e, π, Φ, infinite hotel do get a mention (almost de rigueur I think).**
+- **Riemann Hypothesis, e, π, Φ, infinite hotel do get a mention ( almost de rigueur I think ).**
 
 ### An engaging book about math; The language the universe speaks to us in. Fall into the fascination and there's no going back.
