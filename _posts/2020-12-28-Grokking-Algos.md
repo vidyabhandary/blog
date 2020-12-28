@@ -1,12 +1,12 @@
 ---
-title: "Grokking Algorthms"
+title: "Grokking Algorithms"
 categories: Books
 author: "Vidya Bhandary"
 meta: "Algorithms"
 date: 2020-12-28
 ---
 
-### Book Review — Grokking Algorthms by Aditya Bhargava
+### Book Review — Grokking Algorithms by Aditya Bhargava
 
 The word *'grokking'* refers to *'understand (something) intuitively or by empathy'* and it is the intuition part that this book attempts to impart via some really 
 awesome illustrations.
