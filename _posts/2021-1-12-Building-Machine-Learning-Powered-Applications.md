@@ -10,7 +10,7 @@ date: 2021-1-12
 
 I found this book a bit frustrating to follow. 
 
-Wherever the code is shown the book and a link provided - it is to the main github repo and not to the individual jupyter notebook or python code. Nor was the filename mentioned beneath the code snippet.
+Wherever the code is in shown the book and a link provided - it is to the main github repo and not to the individual jupyter notebook or python code. Nor was the filename mentioned beneath the code snippet.
 
 Not a deal breaker but it is *frustrating.*
 
@@ -18,7 +18,7 @@ Not a deal breaker but it is *frustrating.*
 
 - ### Covers a lot of theory on building a machine learning application
 - ### You build a ML Editor that gives recommendations 
-- ### Important oncepts are illustrated in specific notebooks
+- ### Important concepts are illustrated in specific notebooks
 - ###  Incremental changes to the model for better results
 
 ## Cons
