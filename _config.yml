@@ -30,5 +30,6 @@ header_pages:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-gist
 
 google_analytics: UA-173880651-1
