@@ -37,12 +37,12 @@ Following is the core of the Mandelbrot code. This calculates the value of the f
 
 ### MandelBrot Code
 
-{% gist 7711c745d83dcd9e215a40c6bc506860 %}
+{% gist 7711c74 %}
 Ref : https://rembound.com/articles/drawing-mandelbrot-fractals-with-html5-canvas-and-javascript
 
 ### Julia Code
 
-{% gist 6ca1e27d4adcca98020552f5b3c1a89e %}
+{% gist 6ca1e27 %}
 Ref : https://rosettacode.org/wiki/Julia_set
 
 ### Color Palette Code
