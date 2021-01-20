@@ -3,7 +3,7 @@ title: "Mandelbrot and Julia - Mathematical visualization and beauty"
 categories: Mathematics
 author: "Vidya Bhandary"
 meta: "Mathematics, Mandelbrot, Julia, Complex Numbers, Chaos"
-date: 2021-1-19
+date: 2021-1-20
 ---
 
 I have been fascinated by the idea of chaos theory since I read about the butterfly effect. I read some more about it in the book 'Chaos' by James Gleick 
