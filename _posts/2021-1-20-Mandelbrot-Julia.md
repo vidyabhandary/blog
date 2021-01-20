@@ -111,18 +111,15 @@ Links to the live demo are also mentioned at the end of the post.
 
 ## References
 
-1. Make your own Mandelbrot - Tariq Rashid 
+#### 1. Make your own Mandelbrot - Tariq Rashid 
 
-  If you don't know programming or mathematics, and want to start from scratch to understand the concept behind Mandelbrot in clear, simple 
-  and step-by-step manner, this book is great. Short (only ~130 pages), with plenty of illustrations, easy to grasp. 
-  Its only con is that the code is in Python 2.7.
+If you don't know programming or mathematics, and want to start from scratch to understand the concept behind Mandelbrot in clear, simple and step-by-step manner, this book is great. Short (only ~130 pages), with plenty of illustrations, easy to grasp. Its only con is that the code is in Python 2.7.
 
-2. [HTML5 Canvas and Javascript](https://rembound.com/articles/drawing-mandelbrot-fractals-with-html5-canvas-and-javascript) -  
-Main resource for the javascript code for zoom and pan function. 
+#### 2. [HTML5 Canvas and Javascript](https://rembound.com/articles/drawing-mandelbrot-fractals-with-html5-canvas-and-javascript) - Main resource for the javascript code for zoom and pan function. 
 
-3. [Color palette](https://rosettacode.org/wiki/Julia_set) - Simplest color palette code for a wide range of colors
+#### 3. [Color palette](https://rosettacode.org/wiki/Julia_set) - Simplest color palette code for a wide range of colors
 
-4. [Various values of C for Julia sets](http://paulbourke.net/fractals/juliaset/)
+#### 4. [Various values of C for Julia sets](http://paulbourke.net/fractals/juliaset/)
 
-5. [Color Inspiration](https://dev.to/foqc/mandelbrot-set-in-js-zoom-in-2hmc)
+#### 5. [Color Inspiration](https://dev.to/foqc/mandelbrot-set-in-js-zoom-in-2hmc)
 
