@@ -61,7 +61,7 @@ Links to the live demo are also mentioned at the end of the post.
 ![Mandelbrot gif](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/mandel_imgs/MandelBrot.gif)
 
 #### Julia gif
-![Julia gif](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/mandel_imgs/Julia_800.gif)
+![Julia gif](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/mandel_imgs/Julia.gif)
 
 #### Mandelbrot Image 1
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/mandel_imgs/m1.PNG)
