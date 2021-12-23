@@ -8,7 +8,7 @@ date: 2021-12-23
 
 ### Book Review - Learning React - 2nd Edition by Alex Banks and Eve Porcello
 
-I enjoyed learning from this book but overall I got the feeling that the authors lost steam in towards the end and were trying to complete the book in a hurry before the deadline.
+I enjoyed learning from this book but overall I got the feeling that the authors lost steam towards the end and were trying to complete the book in a hurry before the deadline.
 
 The 2nd chapter in this book that deals with the part of Javascript one needs to know for learning React is extremely good.
 
