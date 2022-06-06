@@ -5,11 +5,9 @@ meta: "#PublicSpeaking, #Communication, #LeanIn"
 date: 2022-06-06
 ---
 
-### My impressions - Becoming the Speaking Superstar
+### I believe one of the signs of a great session is when you find yourself ruminating over what you have heard from the speaker.
 
 [Lean2LeadPune](https://www.linkedin.com/in/lean2lead-pune-bbb92a169/) organized a live session with [Nancy Katyal](https://www.linkedin.com/in/nancykatyal). The topic was "Becoming a Speaking Superstar".
-
-I believe one of the signs of a great session is when you find yourself ruminating over what you have heard from the speaker.
 
 This was my experience and following are _some_ of the key inspiring ideas -
 
