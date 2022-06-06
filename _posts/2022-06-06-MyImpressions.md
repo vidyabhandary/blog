@@ -55,7 +55,7 @@ This was my experience and following are _some_ of the key inspiring ideas -
 
 #### 6. When you are interrupted
 
-- Don't give strokes when you are interrupted
+- Don't give conversational strokes when you are interrupted
 - Balance warmth with competence
 
 **All in all - A very informative and motivating session**
