@@ -47,13 +47,13 @@ This was my experience and following are _some_ of the key inspiring ideas -
 - Good is better than perfect.
 - Don't compare your day 6 with someone who is at day 600.
 
-#### Image and Body Language
+#### 5. Image and Body Language
 
 - Image matters even when you are with yourself - consider how you behave with someone you want to impress vs when you are alone. The question is why do you behave as if your image does not matter to yourself ?
 - Use your hands and match them with what you speak.
 - When trying to gauge if the audience is engaged, look for a cluster of gestures not a single gesture or cue.
 
-#### When you are interrupted
+#### 6. When you are interrupted
 
 - Don't give strokes when you are interrupted
 - Balance warmth with competence
