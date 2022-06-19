@@ -6,7 +6,7 @@ meta: "algorithms, womenintech, coders, datastructures, code"
 date: 2022-06-19
 ---
 
-### Beautiful Code
+### Beautiful code is its own reason for being
 
 Sometimes you come across a beautiful piece of code that makes your heart sing and spark with joy. So creating this post bcoz beautiful code is its own reason for being !
 
