@@ -1,6 +1,6 @@
 ---
 title: "Business at the Speed of AI"
-categories: #150DaysOfCode, #100DaysOfCode, Coding
+categories: #Business, #AI, #ArtificialIntelligence, #ChatGPT
 author: "Vidya Bhandary"
 meta: "#ArtificialIntelligence, #Business #AIAdoption, #FutureofWork, #TechTrends #Innovation, #ChatGPT"
 date: 2023-02-05
