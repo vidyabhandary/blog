@@ -139,7 +139,7 @@ The author of the repo says -
 
 **References** :
 
-- Tutorial by the author of the colabe notebook - https://www.youtube.com/watch?v=EGfxuTy9Eeo
+- Tutorial by the author of the colab notebook - https://www.youtube.com/watch?v=EGfxuTy9Eeo
 
 - One little coder - https://www.youtube.com/@1littlecoder
 
