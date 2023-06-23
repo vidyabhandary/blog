@@ -6,47 +6,43 @@ meta: "#AI, #GPT, #QRCode, #TechTrends #Art #PromptEngineering"
 date: 2023-06-23
 ---
 
-# QR Code AI Art
-
 ## Stunning results but not yet usable as QR Codes
-
-### 1. Starry nights, Vibrant Nebulas
 
 ![](https://github.com/vidyabhandary/blog/blob/master/images/QRCodeAIArt/0_QRCode_Github.png?raw=true)
 
-### 2. Bright lightning and stars, in an alien habitable underwater planet, coral reefs, dream-like atmosphere, water, plants, peaceful, serenity, calm ocean, transparent water, reefs, coral, inner peace, awareness, silence, nature, evolution
+### 1. Bright lightning and stars, in an alien habitable underwater planet, coral reefs, dream-like atmosphere, water, plants, peaceful, serenity, calm ocean, transparent water, reefs, coral, inner peace, awareness, silence, nature, evolution
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/1.png)
 
-### 3. Nothern lights
+### 2. Nothern lights
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/2.png)
 
-### 4. Bright Auroro borealis in the night sky with milky way galaxy
+### 3. Bright Auroro borealis in the night sky with milky way galaxy
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/3.png)
 
-### 5. Magical land
+### 4. Magical land
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/4.png)
 
-### 6. 3d starry galaxy
+### 5. 3d starry galaxy
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/5.png)
 
-### 7. starry nights and vibrant nebulas
+### 6. starry nights and vibrant nebulas
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/6.png)
 
-### 8. mandelbrot vibrant
+### 7. mandelbrot vibrant
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/7.png)
 
-### 9. multicolor sparkly glitter
+### 8. multicolor sparkly glitter
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/master/images/QRCodeAIArt/8.png)
 
-The only one that seems to work.
+**The only one that seems to work.**
 
 ---
 
