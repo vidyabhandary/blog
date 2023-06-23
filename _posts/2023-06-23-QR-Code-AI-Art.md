@@ -52,4 +52,4 @@ The only one that seems to work.
 
 **References** :
 
-- Hugging face QR Code AI Art Generator - https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator
+- [Hugging face QR Code AI Art Generator](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)

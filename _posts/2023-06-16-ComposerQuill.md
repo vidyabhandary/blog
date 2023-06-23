@@ -139,10 +139,10 @@ The author of the repo says -
 
 **References** :
 
-- Tutorial by the author of the colab notebook - https://www.youtube.com/watch?v=EGfxuTy9Eeo
+- [Tutorial by the author of the colab notebook](https://www.youtube.com/watch?v=EGfxuTy9Eeo)
 
-- One little coder - https://www.youtube.com/@1littlecoder
+- [One little coder](https://www.youtube.com/@1littlecoder)
 
 - In the words of Dr Károly Zsolnai-Fehér of the youtube channel "Two Minute Papers" - what a time to be alive !!!!
 
-- The surreal images have been created using Bing Image Creator - https://www.bing.com/create
+- The surreal images have been created using [Bing Image Creator](https://www.bing.com/create)
