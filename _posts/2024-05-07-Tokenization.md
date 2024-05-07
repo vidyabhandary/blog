@@ -36,7 +36,8 @@ Some learnings -
   Having worked with mostly ASCII characters and numbers I thought this was amazing !!!
 
 5. The basic transformer attention model is same, as is the tokenizer for other modalities, which is very impressive when you think about it. Of course this is adapted too, like Sora has visual patches.
-6. Testing of chatgpt using tokens - "<|endoftext|>" - Your knowledge of these special tokends ends up being an attack surface potentially. He explains other types of security concerns in 1 hour introductory talk on LLMs. (Another superb talk).
+
+6. Testing of chatgpt using tokens - &lt;|endoftext|&gt; - Your knowledge of these special tokends ends up being an attack surface potentially. He explains other types of security concerns in 1 hour introductory talk on LLMs. (Another superb talk).
 7. Token economy - YAML is better than JSON.
 
 ### 8. The Best Quirk though !!! Tokens like ['SoldGoldMagikarp'](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
