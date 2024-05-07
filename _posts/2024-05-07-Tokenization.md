@@ -3,7 +3,7 @@ title: "Tokenization"
 categories: GPT, LLM
 author: "Vidya Bhandary"
 meta: "#GPT #2024 #LLM #Tokenizer"
-date: 2024-05-08
+date: 2024-05-07
 ---
 
 ## 1. Learnings from Andrej Karpathy's tutorial on GPT Tokenizer
