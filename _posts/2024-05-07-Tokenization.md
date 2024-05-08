@@ -28,7 +28,9 @@ Some learnings -
    Earlier in GPT-2 each space was counted separately, even if they were right next to each other. So, naturally, you'd end up with more tokens. But in the newer models, spaces next to each other were being combined.
 
 2. By breaking down text into smaller units called tokens, tokenizers provide the groundwork for a model to generate informative embeddings.
+
 3. An appreciation of Byte Pair Encoding (BPE), which I had never heard of before.
+
 4. The regex from encoder.py of gpt2 yielded some new things for me.
 
 > \p{L} - Any kind of letter from a language
