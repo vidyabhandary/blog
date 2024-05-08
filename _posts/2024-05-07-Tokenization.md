@@ -31,15 +31,18 @@ Some learnings -
 3. An appreciation of Byte Pair Encoding (BPE), which I had never heard of before.
 4. The regex from encoder.py of gpt2 yielded some new things for me.
 
-> \p{L} - Any kind of letter from a language - I tested with Devanagari script, Kannada script.
+> \p{L} - Any kind of letter from a language
+> I tested with Devanagari script, Kannada script.
+
 > \p{N} - any kind of numeric in any kind of script Tested with numbers in Kannanda and Hindi.
+
 > Having worked with mostly ASCII characters and numbers I thought this was amazing !!!
 
-5. The basic transformer attention model is same, as is the tokenizer for other modalities, which is very impressive when you think about it. Of course this is adapted too, like Sora has visual patches.
+5\. The basic transformer attention model is same, as is the tokenizer for other modalities, which is very impressive when you think about it. Of course this is adapted too, like Sora has visual patches.
 
-6. Testing of chatgpt using tokens - &lt;\|endoftext\|&gt; - Your knowledge of these special tokends ends up being an attack surface potentially. He explains other types of security concerns in 1 hour introductory talk on LLMs. (Another superb talk).
+6\. Testing of chatgpt using tokens - &lt;\|endoftext\|&gt; - Your knowledge of these special tokends ends up being an attack surface potentially. He explains other types of security concerns in 1 hour introductory talk on LLMs. (Another superb talk).
 
-7. Token economy - YAML is better than JSON.
+7\. Token economy - YAML is better than JSON.
 
 ### 8. The Best Quirk though !!! Tokens like ['SoldGoldMagikarp'](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
 
