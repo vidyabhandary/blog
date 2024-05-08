@@ -32,7 +32,6 @@ Some learnings -
 4. The regex from encoder.py of gpt2 yielded some new things for me.
 
 > \p{L} - Any kind of letter from a language - I tested with Devanagari script, Kannada script.
-
 > \p{N} - any kind of numeric in any kind of script Tested with numbers in Kannanda and Hindi.
 > Having worked with mostly ASCII characters and numbers I thought this was amazing !!!
 
