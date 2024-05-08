@@ -31,9 +31,10 @@ Some learnings -
 3. An appreciation of Byte Pair Encoding (BPE), which I had never heard of before.
 4. The regex from encoder.py of gpt2 yielded some new things for me.
 
-- \p{L} - Any kind of letter from a language - I tested with Devanagari script, Kannada script.
-- \p{N} - any kind of numeric in any kind of script Tested with numbers in Kannanda and Hindi.
-  Having worked with mostly ASCII characters and numbers I thought this was amazing !!!
+> \p{L} - Any kind of letter from a language - I tested with Devanagari script, Kannada script.
+
+> \p{N} - any kind of numeric in any kind of script Tested with numbers in Kannanda and Hindi.
+> Having worked with mostly ASCII characters and numbers I thought this was amazing !!!
 
 5. The basic transformer attention model is same, as is the tokenizer for other modalities, which is very impressive when you think about it. Of course this is adapted too, like Sora has visual patches.
 
