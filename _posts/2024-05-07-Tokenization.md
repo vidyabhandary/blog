@@ -6,7 +6,7 @@ meta: "#GPT #2024 #LLM #Tokenizer"
 date: 2024-05-07
 ---
 
-## 1. Learnings from Andrej Karpathy's tutorial on GPT Tokenizer
+## Learnings from Andrej Karpathy's tutorial on GPT Tokenizer
 
 ![](https://raw.githubusercontent.com/vidyabhandary/blog/868ad1cc2b3d9e91009253c7fe99fe4055708772/images/Tokenization.png)
 
