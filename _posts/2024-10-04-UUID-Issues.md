@@ -2,7 +2,7 @@
 title: "Problem with using UUIDs as Primary Key in MySQL"
 categories: UUID, MySQL
 author: "Vidya Bhandary"
-meta: "#UUID #PrimaryKey #MySQL
+meta: "#UUID #PrimaryKey #MySQL"
 date: 2024-10-04
 ---
 
