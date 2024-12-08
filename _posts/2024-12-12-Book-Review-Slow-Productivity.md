@@ -3,7 +3,7 @@ title: "Book Review - Slow Productivity by Cal Newport"
 categories: Productivity, SelfImprovement
 author: "Vidya Bhandary"
 meta: "#Productivity #SelfImprovement"
-date: 2024-12-12
+date: 2024-12-08
 ---
 
 ## Book Review - Slow Productivity: The Lost Art of Accomplishment Without Burnout by Cal Newport
