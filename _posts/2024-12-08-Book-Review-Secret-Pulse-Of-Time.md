@@ -14,7 +14,7 @@ I picked up this book because I wanted the answer to this question -
 
 - Why does life go by faster and faster as we grow older?
 
-None of the material I had absorbed on this topic seemed incomplete and were not satisfactory.
+None of the material I had absorbed on this topic seemed complete and were not satisfactory.
 My search though has ended with reading this book. I guess I needed something that would meander through biology, physics, neuroscience and philosophy along with practical wisdom.
 
 #### **Key Themes and Insights**
