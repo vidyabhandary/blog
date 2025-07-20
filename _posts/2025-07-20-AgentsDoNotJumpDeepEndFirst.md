@@ -34,4 +34,4 @@ Only when your workflow is too **unpredictable** or **creative** for predefined 
 
 This isn’t about stifling innovation—it’s about using the right tool for the job and avoiding unnecessary complexity. Especially if you're just getting started, simplicity wins.
 
-#AI #GenAI #LLM #MachineLearning #ArtificialIntelligence #Tech #DataScience #Engineering #ProductManagement #Innovation #AgenticAI
+#AI #GenAI #LLM #MachineLearning #ArtificialIntelligence #Tech #Engineering #ProductManagement #Innovation #AgenticAI
