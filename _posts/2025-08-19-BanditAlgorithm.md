@@ -3,7 +3,7 @@ title: "Bandit Algorithms"
 categories: Business, Algorithms, GenerativeAI
 author: "Vidya Bhandary"
 meta: "#MLOps #BanditAlgorithms  #GenerativeAI #Business"
-date: 2025-08-21
+date: 2025-08-19
 ---
 
 ## 1. **Bandit Algorithms**
