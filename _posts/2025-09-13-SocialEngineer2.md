@@ -65,4 +65,4 @@ Reference:
 
 [Social Engineering 2.0](https://cacm.acm.org/blogcacm/social-engineering-2-0/)
 
-#CyberSecurity hashtag#AI hashtag#ZeroTrust hashtag#RiskManagement hashtag#BoardStrategy hashtag#Deepfakes hashtag#Phishing hashtag#WomenInTech hashtag#WomenWhoCode hashtag#WISE
+#CyberSecurity #AI #ZeroTrust #RiskManagement #BoardStrategy #Deepfakes #Phishing #WomenInTech #WomenWhoCode #WISE
