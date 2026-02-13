@@ -3,7 +3,7 @@ title: "Seduced by a Stanza"
 categories: LLMs, AI, AISecurity, Safety
 author: "Vidya Bhandary"
 meta: "#AI #LLM #AgenticAI"
-date: 2026-02-14
+date: 2026-02-13
 ---
 
 # 🧠 Seduced by a Stanza
