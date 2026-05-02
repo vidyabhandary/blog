@@ -3,7 +3,7 @@ title: "Linguistic Sleight"
 categories: LLMs, AI, AISecurity, AgenticAI
 author: "Vidya Bhandary"
 meta: "#AI #LLM #AgenticAI, #MaliciousURLs"
-date: 2026-04-17
+date: 2026-04-24
 ---
 
 Linguistic Sleight: How AI Swallows the Hook While Checking the Bait with URLS
